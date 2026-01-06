@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Ch Naga Sai Lakshmi Naveen</h1>
+Hi 👋, I'm Ch Naga Sai Lakshmi Naveen</h1>
 <h3 align="center">I am an aspiring VLSI engineer with a keen interest in RTL Design, STLD, and Digital Circuits. Currently enhancing my skills at THUB, I aim to bridge the gap between theoretical knowledge and practical applications. Excited to work on real-world projects and contribute to cutting-edge semiconductor technology. Open to networking, collaborations, and learning opportunities!</h3>
 
 - 🌱 I’m currently learning **Digital Design Through Verilog**
